@@ -1,0 +1,283 @@
+1. Magic Prompt
+Definition:
+A Magic Prompt is a well-crafted, detailed instruction that tells an AI exactly what to do, including context, style, and constraints.
+The opposite is a bad prompt — vague, missing context, or unclear.
+
+Structure of a Magic Prompt:
+
+Clear goal
+
+Background/context
+
+Constraints (tone, format, style)
+
+Examples if possible
+
+Bad Prompt Example:
+“Write about coffee.”
+→ Too vague, no target audience, no style or detail.
+
+Good Magic Prompt Example:
+“You are a professional copywriter. Write a 200-word product description for espresso coffee, targeting beginners. Use a friendly tone, explain how it’s made, and end with a call-to-action.”
+
+2. Development / Coding Related AI Tools
+Claude AI (by Anthropic)
+What it does:
+Advanced AI model for deep reasoning, long document/code processing, and detailed explanations.
+Great for debugging, technical writing, and summarizing.
+
+Bad Prompt: “Check my code.”
+
+Good Prompt:
+“You are a senior Java developer. Review this Spring Boot controller code for security vulnerabilities and suggest fixes with explanations.”
+
+Reasoning Models
+What they do:
+AI trained for logical, multi-step problem-solving.
+Good for planning and decision-making tasks.
+
+Bad Prompt: “Plan a trip.”
+
+Good Prompt:
+“Plan a 10-day Japan trip for a family of 4 with a $4,000 budget, including city travel times, affordable hotels, and kid-friendly attractions in table format.”
+
+Replit AI
+What it does:
+AI-assisted coding environment for writing, fixing, and explaining code.
+
+Bad Prompt: “Make a palindrome function.”
+
+Good Prompt:
+“In Python, write a function that checks if a string is a palindrome. Add beginner-friendly comments explaining each step.”
+
+Vive Coding
+What it does:
+AI helper for code optimization and refactoring.
+
+Bad Prompt: “Make this faster.”
+
+Good Prompt:
+“Refactor this JavaScript code to reduce runtime complexity and explain each optimization in plain English.”
+
+Numerous AI
+What it does:
+Works in Google Sheets/Excel to automate and analyze data.
+
+Bad Prompt: “Get the average.”
+
+Good Prompt:
+“In this Google Sheet, create a formula to calculate the average monthly sales for each region and highlight the highest in green.”
+
+3. Image & Video Creation AI Tools
+Sora
+What it does:
+Generates high-quality videos/images from prompts.
+
+Bad Prompt: “Make a forest video.”
+
+Good Prompt:
+“Create a 20-second cinematic video of a forest at sunrise with birds flying overhead.”
+
+Krea.ai
+What it does:
+Enhances images, generates visuals, makes videos with models like Kreakling 2.1 & Wan 2.2.
+
+Bad Prompt: “Fix this picture.”
+
+Good Prompt:
+“Enhance this blurry portrait to be sharp, bright, and suitable for LinkedIn profile use.”
+
+Hailuo AI
+What it does:
+Cinematic wide-angle videos.
+
+Bad Prompt: “Make a surfing video.”
+
+Good Prompt:
+“Create a 10-second cinematic wide-angle video of a surfer riding a wave at sunset.”
+
+Kling AI
+What it does:
+Lip-sync and character animation.
+
+Bad Prompt: “Make him talk.”
+
+Good Prompt:
+“Animate this photo to say ‘Welcome to our museum’ in a calm, formal tone.”
+
+HeyGen
+What it does:
+Creates avatars, converts PPT/PDF to videos.
+
+Bad Prompt: “Make a video from this file.”
+
+Good Prompt:
+“Turn this PDF into a 2-minute video with a male avatar summarizing each slide in a friendly tone.”
+
+Higgsfield AI
+What it does:
+Creates images and visual effects.
+
+Bad Prompt: “Add rain.”
+
+Good Prompt:
+“Add realistic rain and lightning to this nighttime city photo for a cinematic effect.”
+
+Google Labs / Google Flow
+What it does:
+Turns JSON scripts or images into videos.
+
+Bad Prompt: “Make a knight video.”
+
+Good Prompt:
+“Using this image of a medieval knight, create a short animation where he raises his sword slowly, with epic music.”
+
+Meta AI
+What it does:
+Generates anime-style and 3D visuals.
+
+Bad Prompt: “Make anime girl.”
+
+Good Prompt:
+“Create an anime-style warrior girl with neon armor, a futuristic sword, and a cyberpunk city background.”
+
+4. Productivity & Research AI Tools
+Gmail AI
+What it does:
+Summarizes and drafts email replies.
+
+Bad Prompt: “Reply to this.”
+
+Good Prompt:
+“Summarize this email into 3 bullet points and draft a polite reply asking for a detailed project timeline.”
+
+Gemini Gems
+What it does:
+Works with Google Calendar.
+
+Bad Prompt: “What’s my schedule?”
+
+Good Prompt:
+“Summarize my events for the next 7 days and find a free 1-hour slot for a client meeting.”
+
+Fireflies.ai
+What it does:
+Joins meetings, records, transcribes, summarizes.
+
+Bad Prompt: “Send meeting notes.”
+
+Good Prompt:
+“From this meeting transcript, list all tasks assigned to me and their deadlines.”
+
+NotebookLM
+What it does:
+Summarizes videos, PDFs, and documents.
+
+Bad Prompt: “Summarize this video.”
+
+Good Prompt:
+“Summarize this YouTube lecture into 5 key points and suggest 3 discussion questions.”
+
+ChatGPT
+What it does:
+Mock interviews, tutoring, content creation.
+
+Bad Prompt: “Ask me interview questions.”
+
+Good Prompt:
+“Ask me 5 ReactJS interview questions, check my answers, and give improvement tips.”
+
+Perplexity AI
+What it does:
+AI search engine with citations.
+
+Bad Prompt: “Tell me about AI.”
+
+Good Prompt:
+“Find 2024 research papers on AI in cancer detection, summarize the findings, and provide sources.”
+
+Social Sonic
+What it does:
+Creates social media content.
+
+Bad Prompt: “Make Instagram post.”
+
+Good Prompt:
+“Write 3 Instagram captions for a summer beachwear sale, under 15 words, with trending hashtags.”
+
+Chronicle AI
+What it does:
+Makes presentations from text.
+
+Bad Prompt: “Make slides.”
+
+Good Prompt:
+“Create a 10-slide business presentation from this project report, using a clean blue theme.”
+
+Jerry AI
+What it does:
+Automates reminders and tasks.
+
+Bad Prompt: “Remind me about the report.”
+
+Good Prompt:
+“Remind me every Friday at 5 PM to send the weekly sales report to the team.”
+
+5. Audio & Music AI Tools
+ElevenLabs
+What it does:
+Text-to-speech with realistic voices.
+
+Bad Prompt: “Read this text.”
+
+Good Prompt:
+“Convert this article into an audiobook narration in a calm, professional female voice.”
+
+Suno
+What it does:
+Creates songs & lyrics.
+
+Bad Prompt: “Make a song.”
+
+Good Prompt:
+“Create a 1-minute upbeat pop song about friendship and summer, with catchy chorus lyrics.”
+
+6. Browser Extensions
+GoFullPage
+What it does:
+Takes full-page screenshots. (No prompt needed)
+
+Bolt AI
+What it does:
+AI writing & research extension.
+
+Bad Prompt: “Summarize this page.”
+
+Good Prompt:
+“Summarize this webpage into a 100-word LinkedIn post, keeping a professional tone.”
+
+
+
+Lesson 15 of 16
+Workbooks
+
+
+Workbook : Foundations of Gen AI, Gen AI Tools & Prompt Engineering
+https://drive.google.com/file/d/1CpptxI3Qpn4iJI3spVteda7fa4oH4qhW/view
+Workbook : Building Personalised AI Agents
+https://drive.google.com/file/d/1BPG9CzUv_9K0gu0FIg3dj2mDLtAPiNrK/view
+Workbook : AI Automations
+https://drive.google.com/file/d/1SDm2krj-W-A_vjdHjyg2hyJxfiE-CKkX/view
+
+﻿https://docs.google.com/document/d/1yS_3GVJR-aWbQI8_OAi3ji5zD5UaAnVo-x2b55Ai3eA/edit?tab=t.0
+Workbook : Visual Storytelling using AI (Images & Videos)
+https://drive.google.com/file/d/1wBjv4GLaC-MgmETPZdh0We5nGiY5ZaHV/view
+Workbook : AI For Engineers
+https://drive.google.com/drive/folders/1Wu7KIwDXrXkXClZYFeqKGh4eo9xyEHmf?usp=drive_link
+Prompts & Tools
+https://docs.google.com/spreadsheets/d/1vrIibiumK534x5EZ45dDNk28DChPea3cg7WPQoGu1yk/edit?gid=0#gid=0
+https://empty-playroom-5d0.notion.site/50-AI-Tools-1bad1f04695080d9a2f2e9ad777a87bf
+
+https://brook-kileskus-376.notion.site/Generative-AI-Mastermind-Session-1-18de5cd597ea800aa752fce1388b2933
+Roadmap
+https://drive.google.com/file/d/18KTgKvD7lsc0Yk13LDDjqvMlEqL0iN8k/view
